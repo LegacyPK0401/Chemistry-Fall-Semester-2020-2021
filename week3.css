@@ -1,0 +1,58 @@
+body {
+  background: rgb(30, 60, 63);
+}
+
+p {
+  color: white;
+  font-size:29px;
+  background-color:black;
+}
+
+h1 {
+  font-weight:bold;
+  text-align:center;
+  color:black;
+  background-color:white;
+  text-decoration:underline;
+  font-size:35px;
+}
+
+h2 {
+    font-weight:bold;
+    text-align:center;
+    color:white;
+    background-color:black;
+    font-size:30px;
+    font-family:Palatino, serif;
+    text-decoration:underline;
+}
+
+.homebutton { 
+  width:135px;
+  height:120px;
+  border-style: outset;
+  border-width:8px;
+  border-radius: 45px;
+  border-color:rgb(57, 183, 168);
+  background-color:darkslategray;
+  }
+
+.link {
+    color:white;
+    background-color:midnightblue;
+    font-size: 30px;
+}
+
+ol {
+    color:white;
+    background-color:dimgrey;
+    font-size:30px;
+}
+
+.timer {
+    height: 400px;
+    width:auto;
+    border:solid;
+    border-width:19px;
+    border-color:lightskyblue;
+}
